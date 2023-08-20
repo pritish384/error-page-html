@@ -5,7 +5,7 @@ Welcome to the custom error page HTML created by Pritish Purav. This simple and 
 ## Features
 
 - Terminal look and feel.
-- Typing effect
+- Typing effect.
 - Clean and minimalistic design.
 - User-friendly error messages.
 - Responsive layout for various screen sizes.
@@ -20,9 +20,8 @@ Welcome to the custom error page HTML created by Pritish Purav. This simple and 
 
 ## Preview
 
-To see a live preview of the error page, you can visit [this link](https://projects.pritish.tech/error)
+To see a live preview of the error page, you can visit [this link](https://projects.pritish.tech/error).
 ![Error Page Screenshot](https://github.com/pritish384/Assets-repository/blob/main/Readme_Assets/error-page-terminal.png?raw=true)
-
 
 ## Support
 
@@ -45,5 +44,9 @@ This error page template is authored by Pritish Purav. You can reach out to me v
 - Website: [pritish.tech](https://www.pritish.tech)
 
 ---
+
+## Contribution
+
+If you would like to contribute to this error page template, you're welcome to submit pull requests or open issues on the [GitHub repository](https://github.com/pritish384/error-page-html). Your contributions can include bug fixes, enhancements, or additional features that would benefit the template.
 
 Thank you for using this custom error page HTML template! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or reach out to me. Your feedback is highly appreciated.
