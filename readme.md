@@ -4,6 +4,8 @@ Welcome to the custom error page HTML created by Pritish Purav. This simple and 
 
 ## Features
 
+- Terminal look and feel.
+- Typing effect
 - Clean and minimalistic design.
 - User-friendly error messages.
 - Responsive layout for various screen sizes.
@@ -11,8 +13,8 @@ Welcome to the custom error page HTML created by Pritish Purav. This simple and 
 
 ## Usage
 
-1. Download the `error.html` file from this repository.
-2. Upload the `error.html` file to your website's root directory or the desired location.
+1. Download all the files from this repository.
+2. Upload these files to your website's root directory or the desired location.
 3. Customize the error messages in the HTML code to suit your website's needs.
 4. Make sure to update the links or references to your website's assets (stylesheets, images) within the HTML code.
 
