@@ -21,6 +21,8 @@ Welcome to the custom error page HTML created by Pritish Purav. This simple and 
 ## Preview
 
 To see a live preview of the error page, you can visit [this link](https://projects.pritish.tech/error)
+![Error Page Screenshot](https://github.com/pritish384/Assets-repository/blob/main/Readme_Assets/error-page-terminal.png?raw=true)
+
 
 ## Support
 
