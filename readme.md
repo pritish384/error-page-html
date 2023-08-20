@@ -38,7 +38,7 @@ This error page template is released under the [MIT License](LICENSE). Feel free
 
 This error page template is authored by Pritish Purav. You can reach out to me via:
 
-- Email: pritish@example.com
+- Email: [admin@pritish.tech](mailto:admin@pritish.tech)
 - GitHub: [@pritish384](https://github.com/pritish384)
 - Website: [pritish.tech](https://www.pritish.tech)
 
