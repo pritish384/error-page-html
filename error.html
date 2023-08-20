@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Error</title>
+    <link href="./error.css" rel="stylesheet">
+</head>
+<body class="bg">
+    <div id="terminal-container">
+        <div class="terminal-header">
+            <div id="terminal-button-container">
+                <div class="terminal-header-button green"></div>
+                <div class="terminal-header-button yellow"></div>
+                <div class="terminal-header-button red"></div>
+                <span>Made with 💖 by Pritish Purav</span>
+            </div>
+        </div>
+        <div class="terminal">
+            <div class="terminal-text">
+                <span class="green user">root@pritish.tech</span><span>:</span><span class="blue"><strong>~</strong></span><span>$</span> <span data-text="./run.sh"></span><br>
+                <span class="red" data-text="Error"></span><span data-text=":"></span><span class="yellow" data-text="An unexpected error occured."></span><br>
+                <span class="red" data-text="Information"></span><span data-text=":"></span><span class="yellow"><strong data-text="{{ error }}"></strong></span><br>
+                <span class="blue" data-text="Solution"></span><span data-text=":"></span><span id="hr" class="yellow" data-text="{{ solution }}"></span>
+                <span class="green" data-text="Try the above solution 👆 to fix the error!"></span><br>
+                <span class="blue" data-text="Meanwhile our team will fix this error soon!"></span><span id="end" class="blinking-cursor hidden">&nbsp;</span>
+                
+            </div>
+
+        </div>
+    </div>
+    <script src="./error.js"></script>
+
+</body>
+</html>
