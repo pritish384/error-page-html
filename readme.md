@@ -21,7 +21,7 @@ Welcome to the custom error page HTML created by Pritish Purav. This simple and 
 ## Preview
 
 To see a live preview of the error page, you can visit [this link](https://projects.pritish.tech/error).
-![Error Page Screenshot](https://github.com/pritish384/Assets-repository/blob/main/Readme_Assets/error-page-terminal.png?raw=true)
+![Error Page Screenshot](https://cdn.pritishpurav.in/Readme_Assets/error-page-terminal.png)
 
 ## Support
 
@@ -39,9 +39,9 @@ This error page template is released under the [MIT License](LICENSE). Feel free
 
 This error page template is authored by Pritish Purav. You can reach out to me via:
 
-- Email: [admin@pritish.tech](mailto:admin@pritish.tech)
+- Email: [admin@pritish.tech](https://www.pritishpurav.in/contact)
 - GitHub: [@pritish384](https://github.com/pritish384)
-- Website: [pritish.tech](https://www.pritish.tech)
+- Website: [www.pritishpurav.in](https://www.pritishpurav.in)
 
 ---
 
